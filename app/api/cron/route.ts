@@ -10,7 +10,7 @@ import {
 } from "@/app/lib/utils";
 import { NextResponse } from "next/server";
 
-export const maxDuration = 100;
+export const maxDuration = 10;
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
